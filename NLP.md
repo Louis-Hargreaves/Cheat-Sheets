@@ -1,1 +1,1 @@
-- ["Universal POS tags"](https://universaldependencies.org/u/pos")
+- [Universal POS tags](https://universaldependencies.org/u/pos)
