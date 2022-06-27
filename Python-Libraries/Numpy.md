@@ -1,2 +1,3 @@
+- [Numpy Basics](https://numpy.org/doc/stable/user/quickstart.html#the-basics)
 - [Numpy Fundamentals](https://numpy.org/doc/stable/user/basics.html)
 - [Useful CheatSheet](https://intellipaat.com/mediaFiles/2018/12/Python-NumPy-Cheat-Sheet-1.png)
