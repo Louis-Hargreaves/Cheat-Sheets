@@ -1,7 +1,7 @@
 - [Venv Tutorial](https://docs.python.org/3/tutorial/venv.html)
 # Venv with Github #
 
-Typically the steps you always takes are:
+Typically the steps you always take are:
 ```
 git clone <repo>
 cd <repo>
