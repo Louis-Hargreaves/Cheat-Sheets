@@ -1,1 +1,0 @@
--[Link to python package index of library](https://pypi.org/project/execsql/)
