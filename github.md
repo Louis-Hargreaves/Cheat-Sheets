@@ -8,7 +8,7 @@ To open a repository:
 - git >> README.md
 - git >> LISCENCE.md
 - git >> .gitignore
-- pip3 freeze > requirements.txt #for virtual environment
+- pip3 freeze > requirements.txt      #for virtual environment
 - git add .
 - git commit -m "first commit"
 - git branch -M main
