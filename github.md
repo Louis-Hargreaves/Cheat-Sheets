@@ -6,7 +6,10 @@ To open a repository:
 ```markdown
 - git init
 - git >> README.md
-- git add README.md
+- git >> LISCENCE.md
+- git >> .gitignore
+- pip3 freeze > requirements.txt #for virtual environment
+- git add .
 - git commit -m "first commit"
 - git branch -M main
 - git remote add origin https://github.com/Louis-Hargreaves/React-Tutorial.git
