@@ -3,6 +3,7 @@
 - [Github and Jekyll - Further customisation of Github Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
 To open a repository:
+```markdown
 - git init
 - git >> README.md
 - git add README.md
@@ -10,9 +11,11 @@ To open a repository:
 - git branch -M main
 - git remote add origin https://github.com/Louis-Hargreaves/React-Tutorial.git
 - git push -u origin main
-
+```
 To make changes:
+```markdown
 - git add .
 - git branch -M main
 - git commit -m "commit"
 - git push -u origin main
+```
