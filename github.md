@@ -22,3 +22,13 @@ To make changes:
 - git commit -m "commit"
 - git push -u origin main
 ```
+
+To get repository information onto a local machine
+First time (creates a copy):
+```markdown
+- git clone "repository file location"
+```
+Not first time: 
+```markdown
+git pull origin <branch name>
+```
